@@ -11,8 +11,8 @@
   DTS:LocaleID="10250"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="17"
-  DTS:VersionGUID="{CF249A34-5C06-4A81-A188-4B45A6467DF8}">
+  DTS:VersionBuild="18"
+  DTS:VersionGUID="{4467F77B-B27A-44F0-AA88-CB8D9B49A048}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADwkoYH8IzssgAJyKzmGuWcPnfWD6i4SAWx6La55k+U4wAAAAAOgAAAAAIAACAAAABvlkRIsBgJ77rF1GdTfa8s+5F1j9CGmX9jlFRuoS0KESAAAADH/OPLrxiwfR3o2h1S1wmQWkaznoDQ9WVUwsvdEFqDm0AAAADIme/41iMiLIZgLfUr+EdKP+9uimdRul0ykufZkQUpxortyWirV8O0LP4GJXIByrSZeF/MsOHmLZ8tgoWV3tww</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACzqISVl6RJOP7TOUh31FA13mq3rMYzg/OXZ2mY634seAAAAAAOgAAAAAIAACAAAABwTTJpciW0B8FFdyuUKi2IpgDs8pH4npczZf79EK6gTSAAAAAgaJ2uGBH4bPKWbXKYi64KpVE8rzsheD1SmxLx+nbFGEAAAAAbQzFT0wKFrp/TVsi3qwTN8g5Gh49iCbNwGTb7N8fL0WATOUzubBDwsA3BhcBmiO4ohaGX7MqXKEGN2sxwur/p</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADw/ApP2Uo7CZv3jEwMWwlIQChewZJjlHqQzgVQ5ltdXQAAAAAOgAAAAAIAACAAAACqEXH9fsJFKe6IZIyktSD4BiHeHX5sm1/GymFw9lPnASAAAABJxRDeUMO9GBf96XLCWKt4cT62KuCYeadYiW06Gp9iM0AAAAAtTyacJVUhJW4RlMjlYNtQVaZxY0nJXd8Ppa5QIzka4t0Cea/Jdy2bzY7V3zLTbI+HzoFPUUQCLnxNRtENGCPW</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB3v0n7iF0TYogwaSdJpPP1I0J2/BWmWnztn4LmFQDwYwAAAAAOgAAAAAIAACAAAABrEveCzdmwG/aHvbq+i1CJid6KU2DtICYvcTLCfuIyqyAAAABdTx+zFVUXqcVExMNhdBeBSaVA8g0ILkE7r0zv66U8S0AAAAA+AD2/OLbrGoJ361ExaXlMd2jSbEY9GkS7UkCuTSIlV+OL0qqYgISfGK6XkAydKSz2pbR4bKPXizq5NvrwRW77</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -63,7 +63,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACL5DcE99uvMzEx75VA/HVHWK204s9aoC6TZTvk/32tzgAAAAAOgAAAAAIAACAAAAB0lAxywSYOwEvq30ZxAJYiJlXQMtF/W9yFt6hmp7px0yAAAAB2lEwfzMDkn7u3fJ+2TXuxWiTyWbtyuVS+YqRq+3ZbrEAAAAA9q12k2poQ50olbrGPfgRX2ae7Li8jfWKWw51gDI0qEhMgKnBRVOeiMjkaotmLbINAK+Nh7YCd+s0HIXKEQWRB</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACpT2KD07GCpiwtIYgiayBQLH9hNgecauX39qz1PLqsiQAAAAAOgAAAAAIAACAAAACaLcMc0RvM1mPBQ8rWt1Rw4iZR5UeDgTkNJHekis8rpSAAAADziQhvfYTptWcGCri+RkMHTF77u6sdvgglumO4wOVF/0AAAABF6jzTMNeyOJtgcg1BhNz8k54sHFmhCRE7wJkFoSv9SB3oXv1E8F55sWJSYLvL5UZTMCRkyrXPjNDonD1roDND</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -80,7 +80,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA9hW4d4s7l1lFDUsxxKTZ78aVla76kIg8DRqjaOIVJAAAAAAAOgAAAAAIAACAAAADzwXSEIxDrXodgr2vbjm9lwwhW9UM8Dt9lVpEzHG4xsCAAAAD+FEtlTXMLDspnNLZEJV7icuR0toQQO4ljHHVrMpVWjEAAAACAwIsuV+qcyeZqBVEHtXnosYuqmhbvgOIpN4QPfT/HsWS5uqNk25afXk5uUxTUUWOAAK1WRawia/qVN0u0xbh4</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABBIcgg8fmWiC5V4u046vLQ9qzWt2q/ArybXDJ2bhxSewAAAAAOgAAAAAIAACAAAAC0yNe5E9ITgTmpnmHOfdlvZntkjs2qbvD1WK01xznzgiAAAABh65/ue1e1gmyK+oxfhLSoZNRGH1vfjkJZE6oatfh3sEAAAAAZoiT/19MO6FFpH+GmEinl8LUl1FPAqYidpDTIp0GDf4VE2AV73chbWC12k23D8lN1UACFKf1BJ4WI8O+Da/Bv</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -97,7 +97,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAX9QMMF22pKiegFcjRUTQ2pvqT+xDgvhD4uUOtuYzDRgAAAAAOgAAAAAIAACAAAACkMgIxtC2UvMT6D0ZJz8sDY4smGGeHUPxcY3Qs0t+zJSAAAACG+M5aGBSXMg5goO13quNj5pwaNEIoPk4LYuISrtPj1EAAAADEZd09hzZtrUTVK9Twn2fiL4+K4CVTHlW93iSKC850U2EzcXBth5oZQgWP1XZaqEGcnH6Z8Ydur/99tycylxoT</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADzMedZZxQMThdDMV6gjHge70HEqdQd+rh4WwxuKnKWBQAAAAAOgAAAAAIAACAAAAAhiKJt1QF4BmfzjL7A9w/mKP9isK3/nEPlQpYduWW1ACAAAAAj5piAYgDsuvw990coR65yzkfvKCeiRYtJZ2D0h4BL8UAAAAAp0hteiJ+J92okz2lWUEWL554wkhpEwkmyKZBaC8h4f5kEetSPLo4GkZx+yQjzVxmj1nU3lspani7re8VHq5PH</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -114,7 +114,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAALBK2Eyx5/heRDhm1bGcICmtMeHYH4BsSa4Qc+14SOaQAAAAAOgAAAAAIAACAAAACC35AJTn7vEGC1Ti/695LooT+TaJnpLVtqn/zYMS9OiiAAAAClBrY+gN29kCm3GU1L8sVaNAaDHACzw1sOrO6RIDGOMkAAAACgiRuhEtcFpz1GCNR2oUqGUewV1DJXcRB4sHlAJ1QAuQlKFYyI6E0WlYAZDD4O7yDEL6i66PT9zTC4Wpd2Au8x</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC8nB/8qJoLMIcpaYgz0dCHe6+EbXZ5KKx59MoISOjn1wAAAAAOgAAAAAIAACAAAACfsbsdWMFNopEDefljvauA/3I7tVqV4oY31ge3064I+SAAAAAXFjOR0yRieAI3qiXvNW14V7QEWV5hFDcdSZl7vIvq50AAAADNGHS64GG7n2ctotC22h+s+BX6rYIlwRtwDj/g74FmbCf0Wu/KUUOOq2exJpPqGWjGfYH3+ml56ujQ6RkaydFJ</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -3684,20 +3684,34 @@ FROM Pedidos;</property>
                   dataType="System.String"
                   description="The SQL command to be executed."
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT DetallePedidos.IdProducto,
-	Northwind_DM..Cliente_DIM.skCliente,
-	Productos.IdProveedor, Pedidos.IdEmpleado,
-	Pedidos.ViaEmbarque, Northwind_DM..Tiempo_DIM.skFecha,
-	DetallePedidos.Cantidad, DetallePedidos.PrecioUnitario, 
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT 
+
+                   DetallePedidos.IdProducto,
+	VientoNorte_DM..Cliente_DIM.skCliente,
+	VientoNorte_DM..CiudadCliente_DIM.skCiudadCliente,                                           VientoNorte_DM..CiudadProveedor_DIM.skCiudadProveedor,
+                  VientoNorte_DM..CiudadEmpleado_DIM.skCiudadEmpleado,
+	VientoNorte_DM..Tiempo_DIM.skTiempo,
+	DetallePedidos.UnidadesPedidas, 
+                   DetallePedidos.PrecioVenta, 
 	DetallePedidos.Cantidad * DetallePedidos.PrecioUnitario * 
-		(1 - DetallePedidos.Descuento) AS Monto
+		(1 - DetallePedidos.Descuento) AS MontoPedido
+
 FROM DetallePedidos INNER JOIN Pedidos
 	ON DetallePedidos.IdPedido = Pedidos.IdPedido
-INNER JOIN Northwind_DM..Cliente_DIM
-	ON Pedidos.IdCliente = Northwind_DM..Cliente_DIM.idCliente
-INNER JOIN Productos
-	ON DetallePedidos.IdProducto = Productos.IdProducto
-INNER JOIN Northwind_DM..Tiempo_DIM
+
+INNER JOIN VientoNorte_DM..Cliente_DIM
+	ON Pedidos.IdCliente = VientoNorte_DM..Cliente_DIM.idCliente
+
+INNER JOIN VientoNorte_DM..CiudadCliente_DIM
+                   ON Clientes.idCliente = VientoNorte_DM..CiudadCliente.Ciudad
+
+INNER JOIN VientoNorte_DM..CiudadProveedor_DIM
+	ON Proveedor.IdProveedor =                                                          VientoNorte_DM..CiudadProveedor_DIM.Ciudad
+
+INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
+	ON Empleado.IdEmpleado =                                                                                        VientoNorte_DM..CiudadEmpleado_DIM.Ciudad
+
+INNER JOIN VientoNorte_DM..Tiempo_DIM
 	ON Pedidos.FechaPedido = Tiempo_DIM.fecha;</property>
                 <property
                   dataType="System.String"
@@ -4020,7 +4034,7 @@ INNER JOIN Northwind_DM..Tiempo_DIM
         <NodeLayout
           Size="174,42"
           Id="Package\Poblar Ventas_FACT"
-          TopLeft="1273,74" />
+          TopLeft="353,341" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
           TopLeft="322.5,64">
@@ -4693,7 +4707,7 @@ INNER JOIN Northwind_DM..Tiempo_DIM
     design-time-name="Package\Poblar Ventas_FACT">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="178,42"
           Id="Package\Poblar Ventas_FACT\Leer datos de Ventas"
@@ -4733,9 +4747,7 @@ INNER JOIN Northwind_DM..Tiempo_DIM
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
