@@ -11,8 +11,8 @@
   DTS:LocaleID="10250"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="18"
-  DTS:VersionGUID="{4467F77B-B27A-44F0-AA88-CB8D9B49A048}">
+  DTS:VersionBuild="23"
+  DTS:VersionGUID="{95FE9823-7660-444C-BFA2-5E728323F42B}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACzqISVl6RJOP7TOUh31FA13mq3rMYzg/OXZ2mY634seAAAAAAOgAAAAAIAACAAAABwTTJpciW0B8FFdyuUKi2IpgDs8pH4npczZf79EK6gTSAAAAAgaJ2uGBH4bPKWbXKYi64KpVE8rzsheD1SmxLx+nbFGEAAAAAbQzFT0wKFrp/TVsi3qwTN8g5Gh49iCbNwGTb7N8fL0WATOUzubBDwsA3BhcBmiO4ohaGX7MqXKEGN2sxwur/p</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAHYmgqD2wSviYIsGr/veO/Z+QvuUMF9/CA0w3r7WOIMwAAAAAOgAAAAAIAACAAAABVfgV8rjo/oeqoFSipPZVE8qgGTJpZBr7enLbbebua/CAAAADVHfn+41gVqalg6+8LVssOpWeYhaS0Ya+ymGWj59AEQkAAAADXkZ27LTXKQH62LOVVNw3eIkEhiBU9+whW1d7eMOGTTlT4R07tpsuXjg327wnkHZ/P9kbvPhuHNJ6CRmxI5fru</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB3v0n7iF0TYogwaSdJpPP1I0J2/BWmWnztn4LmFQDwYwAAAAAOgAAAAAIAACAAAABrEveCzdmwG/aHvbq+i1CJid6KU2DtICYvcTLCfuIyqyAAAABdTx+zFVUXqcVExMNhdBeBSaVA8g0ILkE7r0zv66U8S0AAAAA+AD2/OLbrGoJ361ExaXlMd2jSbEY9GkS7UkCuTSIlV+OL0qqYgISfGK6XkAydKSz2pbR4bKPXizq5NvrwRW77</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABR9U/OksIJPE9TJIuOAdtwSeiDGBzmsJlRJWJrrMdGiAAAAAAOgAAAAAIAACAAAAAZZ5UEcaXG/4E28faaVUfYtrqSMbowCFVs786/M8CgwyAAAABp7wUVPtse9YmvN2nvdLk118OjPx9HgzUx+cZSK2uL0UAAAADyqbnK8e0AUQAMuqPN3RJrPxE3oycEpu2JMzqvMvEUQJNb9ARhf0a0U5SUQXUq4MMF4W1diKrL6QaPgTjLlhat</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -63,7 +63,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACpT2KD07GCpiwtIYgiayBQLH9hNgecauX39qz1PLqsiQAAAAAOgAAAAAIAACAAAACaLcMc0RvM1mPBQ8rWt1Rw4iZR5UeDgTkNJHekis8rpSAAAADziQhvfYTptWcGCri+RkMHTF77u6sdvgglumO4wOVF/0AAAABF6jzTMNeyOJtgcg1BhNz8k54sHFmhCRE7wJkFoSv9SB3oXv1E8F55sWJSYLvL5UZTMCRkyrXPjNDonD1roDND</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAjgCiivX6ypJt4mCOFBec8sST+N80Cb4/5h/cmroemVgAAAAAOgAAAAAIAACAAAABa9wRNA+ZRBv+AWI+YnMMrJt7N1fPRqoYSovNLoqIq1yAAAAAkP9Xe+INp2U0hNpblxnpcs8b4INCdVt8F3fH9S3afnEAAAACshOoS3jM3a2Uo/kv6iPhnFKuTVMTqAox8BAcfL8p3+7iGPSl8lAu8VtDBhOxR0n8tCgPSJOzyRAGArlCSBtVy</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -80,7 +80,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABBIcgg8fmWiC5V4u046vLQ9qzWt2q/ArybXDJ2bhxSewAAAAAOgAAAAAIAACAAAAC0yNe5E9ITgTmpnmHOfdlvZntkjs2qbvD1WK01xznzgiAAAABh65/ue1e1gmyK+oxfhLSoZNRGH1vfjkJZE6oatfh3sEAAAAAZoiT/19MO6FFpH+GmEinl8LUl1FPAqYidpDTIp0GDf4VE2AV73chbWC12k23D8lN1UACFKf1BJ4WI8O+Da/Bv</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAgWGZR8qT3PDaF3SRJ45nhZD2yZzXXsUxzl8EmGSLSHgAAAAAOgAAAAAIAACAAAADwQCBH/sJzrsDIyaaJoI+9PzQh0ZtqYHtVe3pGBMzKAiAAAAD3KYqnfzUIqtXV9Zf7+XL1TaBIh7Ic/r1+XyV1S632w0AAAAAPnkI76IOjb1JKsPAntd25I+229/yrJ3HaM3l6rTeXkEirimfH1L2pdmvHFK1GRBLqSFh3tmsy7V5ZnI6tTkIg</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -97,7 +97,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADzMedZZxQMThdDMV6gjHge70HEqdQd+rh4WwxuKnKWBQAAAAAOgAAAAAIAACAAAAAhiKJt1QF4BmfzjL7A9w/mKP9isK3/nEPlQpYduWW1ACAAAAAj5piAYgDsuvw990coR65yzkfvKCeiRYtJZ2D0h4BL8UAAAAAp0hteiJ+J92okz2lWUEWL554wkhpEwkmyKZBaC8h4f5kEetSPLo4GkZx+yQjzVxmj1nU3lspani7re8VHq5PH</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC96o9A49qdg0yPlAgJomOjD7ljKhlJ2ew2x4duDvwrCwAAAAAOgAAAAAIAACAAAAAcZ1Ao6AL88GQxXXP10FlPt0H8/uRjofmUd3s3y15d0yAAAADpTcF99lizszLgUTeD7LvsajIp0d9HwF8aDhvu5P3T+EAAAABDHW3p+w5xUUb3xe3VxPW6rYSrr0FbKoVSAaLlTa2WXIwA4rw29DhJZ0OEfp9i25Ed0GxWj088bEf7Z3n5pHne</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -114,7 +114,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC8nB/8qJoLMIcpaYgz0dCHe6+EbXZ5KKx59MoISOjn1wAAAAAOgAAAAAIAACAAAACfsbsdWMFNopEDefljvauA/3I7tVqV4oY31ge3064I+SAAAAAXFjOR0yRieAI3qiXvNW14V7QEWV5hFDcdSZl7vIvq50AAAADNGHS64GG7n2ctotC22h+s+BX6rYIlwRtwDj/g74FmbCf0Wu/KUUOOq2exJpPqGWjGfYH3+ml56ujQ6RkaydFJ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACOaK1WL85uAI9uKSA+Spvca+qh5SptIt2eyf5sa9SXSAAAAAAOgAAAAAIAACAAAACwpVdN4ypwtJpunvaJcWCZPfbHWP9gmgywKyZGQp30uyAAAABTBz6Br0i8dYnYxwZdNf6dkmgaPrNUInpQUf7MCPIUdkAAAAAdYdsPeLBm87JTwMERMWNYhCslpRv7oEFz/NXNp7/F3+knBZNzQuGqBFOjRGXrUcQk05trH9h77Qd9lhOwfM/R</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -961,6 +961,16 @@ FROM Empleados;</property>
                       lineageId="Package\Poblar CiudadEmpleado_DIM\Leer Empleados.Outputs[OLE DB Source Output].Columns[Ciudad]"
                       name="Ciudad"
                       truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Poblar CiudadEmpleado_DIM\Leer Empleados.Outputs[OLE DB Source Output].Columns[Pais]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Poblar CiudadEmpleado_DIM\Leer Empleados.Outputs[OLE DB Source Output].ExternalColumns[Pais]"
+                      length="15"
+                      lineageId="Package\Poblar CiudadEmpleado_DIM\Leer Empleados.Outputs[OLE DB Source Output].Columns[Pais]"
+                      name="Pais"
+                      truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -1073,6 +1083,12 @@ FROM Empleados;</property>
                       length="15"
                       lineageId="Package\Poblar CiudadEmpleado_DIM\Leer Empleados.Outputs[OLE DB Source Error Output].Columns[Ciudad]"
                       name="Ciudad" />
+                    <outputColumn
+                      refId="Package\Poblar CiudadEmpleado_DIM\Leer Empleados.Outputs[OLE DB Source Error Output].Columns[Pais]"
+                      dataType="wstr"
+                      length="15"
+                      lineageId="Package\Poblar CiudadEmpleado_DIM\Leer Empleados.Outputs[OLE DB Source Error Output].Columns[Pais]"
+                      name="Pais" />
                   </outputColumns>
                   <externalMetadataColumns />
                 </output>
@@ -1085,6 +1101,339 @@ FROM Empleados;</property>
               endId="Package\Poblar CiudadEmpleado_DIM\Escribir Empleado_DIM.Inputs[OLE DB Destination Input]"
               name="OLE DB Source Output"
               startId="Package\Poblar CiudadEmpleado_DIM\Leer Empleados.Outputs[OLE DB Source Output]" />
+          </paths>
+        </pipeline>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\Poblar CiudadProveedor_DIM"
+      DTS:CreationName="Microsoft.Pipeline"
+      DTS:Description="Data Flow Task"
+      DTS:DTSID="{660a0add-d08a-4d2f-be6d-3b9696923c6f}"
+      DTS:ExecutableType="Microsoft.Pipeline"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="Poblar CiudadProveedor_DIM">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <pipeline
+          version="1">
+          <components>
+            <component
+              refId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM"
+              componentClassID="Microsoft.OLEDBDestination"
+              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
+              description="OLE DB Destination"
+              name="Escribir Proveedor_DIM"
+              usesDispositions="true"
+              version="4">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[CiudadProveedor_DIM]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">3</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepIdentity">false</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
+                  name="FastLoadKeepNulls">false</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
+                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
+                  name="FastLoadMaxInsertCommitSize">2147483647</property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-18B08A5.VientoNorte_DM.admin]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-18B08A5.VientoNorte_DM.admin]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <inputs>
+                <input
+                  refId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input]"
+                  errorOrTruncationOperation="Insert"
+                  errorRowDisposition="FailComponent"
+                  hasSideEffects="true"
+                  name="OLE DB Destination Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].Columns[Ciudad]"
+                      cachedDataType="wstr"
+                      cachedLength="15"
+                      cachedName="Ciudad"
+                      externalMetadataColumnId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[NombreCiudadProveedor]"
+                      lineageId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Ciudad]" />
+                    <inputColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].Columns[Pais]"
+                      cachedDataType="wstr"
+                      cachedLength="15"
+                      cachedName="Pais"
+                      externalMetadataColumnId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[NombrePaisProveedor]"
+                      lineageId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Pais]" />
+                  </inputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[SkCiudadProveedor]"
+                      dataType="i4"
+                      name="SkCiudadProveedor" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[NombreCiudadProveedor]"
+                      dataType="wstr"
+                      length="15"
+                      name="NombreCiudadProveedor" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[NombrePaisProveedor]"
+                      dataType="wstr"
+                      length="15"
+                      name="NombrePaisProveedor" />
+                  </externalMetadataColumns>
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Outputs[OLE DB Destination Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="OLE DB Destination Error Output"
+                  synchronousInputId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
+              refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores"
+              componentClassID="Microsoft.OLEDBSource"
+              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
+              description="OLE DB Source"
+              name="Leer Proveedores"
+              usesDispositions="true"
+              version="7">
+              <properties>
+                <property
+                  dataType="System.Int32"
+                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
+                  name="CommandTimeout">0</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the name of the database object used to open a rowset."
+                  name="OpenRowset">[dbo].[Proveedores]</property>
+                <property
+                  dataType="System.String"
+                  description="Specifies the variable that contains the name of the database object used to open a rowset."
+                  name="OpenRowsetVariable"></property>
+                <property
+                  dataType="System.String"
+                  description="The SQL command to be executed."
+                  name="SqlCommand"
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
+                <property
+                  dataType="System.String"
+                  description="The variable that contains the SQL command to be executed."
+                  name="SqlCommandVariable"></property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the column code page to use when code page information is unavailable from the data source."
+                  name="DefaultCodePage">1252</property>
+                <property
+                  dataType="System.Boolean"
+                  description="Forces the use of the DefaultCodePage property value when describing character data."
+                  name="AlwaysUseDefaultCodePage">false</property>
+                <property
+                  dataType="System.Int32"
+                  description="Specifies the mode used to access the database."
+                  name="AccessMode"
+                  typeConverter="AccessMode">0</property>
+                <property
+                  dataType="System.String"
+                  description="The mappings between the parameters in the SQL command and variables."
+                  name="ParameterMapping"></property>
+              </properties>
+              <connections>
+                <connection
+                  refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Connections[OleDbConnection]"
+                  connectionManagerID="Package.ConnectionManagers[DESKTOP-18B08A5.Northwind.admin]"
+                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-18B08A5.Northwind.admin]"
+                  description="The OLE DB runtime connection used to access the database."
+                  name="OleDbConnection" />
+              </connections>
+              <outputs>
+                <output
+                  refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output]"
+                  name="OLE DB Source Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Ciudad]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Ciudad]"
+                      length="15"
+                      lineageId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Ciudad]"
+                      name="Ciudad"
+                      truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Pais]"
+                      dataType="wstr"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Pais]"
+                      length="15"
+                      lineageId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Pais]"
+                      name="Pais"
+                      truncationRowDisposition="FailComponent" />
+                  </outputColumns>
+                  <externalMetadataColumns
+                    isUsed="True">
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[NombreContacto]"
+                      dataType="wstr"
+                      length="30"
+                      name="NombreContacto" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[CargoContacto]"
+                      dataType="wstr"
+                      length="30"
+                      name="CargoContacto" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Direccion]"
+                      dataType="wstr"
+                      length="60"
+                      name="Direccion" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Ciudad]"
+                      dataType="wstr"
+                      length="15"
+                      name="Ciudad" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Region]"
+                      dataType="wstr"
+                      length="15"
+                      name="Region" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[CodigoPostal]"
+                      dataType="wstr"
+                      length="10"
+                      name="CodigoPostal" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Pais]"
+                      dataType="wstr"
+                      length="15"
+                      name="Pais" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Telefono]"
+                      dataType="wstr"
+                      length="24"
+                      name="Telefono" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Fax]"
+                      dataType="wstr"
+                      length="24"
+                      name="Fax" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[IdProveedor]"
+                      dataType="i4"
+                      name="IdProveedor" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[NombreProveedor]"
+                      dataType="wstr"
+                      length="40"
+                      name="NombreProveedor" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Web]"
+                      dataType="nText"
+                      name="Web" />
+                  </externalMetadataColumns>
+                </output>
+                <output
+                  refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output]"
+                  isErrorOut="true"
+                  name="OLE DB Source Error Output">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                    <outputColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[Ciudad]"
+                      dataType="wstr"
+                      length="15"
+                      lineageId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[Ciudad]"
+                      name="Ciudad" />
+                    <outputColumn
+                      refId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[Pais]"
+                      dataType="wstr"
+                      length="15"
+                      lineageId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[Pais]"
+                      name="Pais" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+          </components>
+          <paths>
+            <path
+              refId="Package\Poblar CiudadProveedor_DIM.Paths[OLE DB Source Output]"
+              endId="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input]"
+              name="OLE DB Source Output"
+              startId="Package\Poblar CiudadProveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output]" />
           </paths>
         </pipeline>
       </DTS:ObjectData>
@@ -2124,443 +2473,6 @@ FROM Productos INNER JOIN Categorias
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
-      DTS:refId="Package\Poblar Proveedor_DIM"
-      DTS:CreationName="Microsoft.Pipeline"
-      DTS:Description="Data Flow Task"
-      DTS:DTSID="{660a0add-d08a-4d2f-be6d-3b9696923c6f}"
-      DTS:ExecutableType="Microsoft.Pipeline"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="Poblar Proveedor_DIM">
-      <DTS:Variables />
-      <DTS:ObjectData>
-        <pipeline
-          version="1">
-          <components>
-            <component
-              refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM"
-              componentClassID="Microsoft.OLEDBDestination"
-              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
-              description="OLE DB Destination"
-              name="Escribir Proveedor_DIM"
-              usesDispositions="true"
-              version="4">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">[dbo].[Proveedor_DIM]</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the variable that contains the name of the database object used to open a rowset."
-                  name="OpenRowsetVariable"></property>
-                <property
-                  dataType="System.String"
-                  description="The SQL command to be executed."
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Forces the use of the DefaultCodePage property value when describing character data."
-                  name="AlwaysUseDefaultCodePage">false</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the mode used to access the database."
-                  name="AccessMode"
-                  typeConverter="AccessMode">3</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                  name="FastLoadKeepIdentity">false</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                  name="FastLoadKeepNulls">false</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
-                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                  name="FastLoadMaxInsertCommitSize">2147483647</property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[DESKTOP-18B08A5.Northwind_DM.admin]"
-                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-18B08A5.Northwind_DM.admin]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
-              </connections>
-              <inputs>
-                <input
-                  refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input]"
-                  errorOrTruncationOperation="Insert"
-                  errorRowDisposition="FailComponent"
-                  hasSideEffects="true"
-                  name="OLE DB Destination Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].Columns[Direccion]"
-                      cachedDataType="wstr"
-                      cachedLength="60"
-                      cachedName="Direccion"
-                      externalMetadataColumnId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[direccion]"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Direccion]" />
-                    <inputColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].Columns[Ciudad]"
-                      cachedDataType="wstr"
-                      cachedLength="15"
-                      cachedName="Ciudad"
-                      externalMetadataColumnId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[ciudad]"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Ciudad]" />
-                    <inputColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].Columns[Pais]"
-                      cachedDataType="wstr"
-                      cachedLength="15"
-                      cachedName="Pais"
-                      externalMetadataColumnId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[pais]"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Pais]" />
-                    <inputColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].Columns[Telefono]"
-                      cachedDataType="wstr"
-                      cachedLength="24"
-                      cachedName="Telefono"
-                      externalMetadataColumnId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[telefono]"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Telefono]" />
-                    <inputColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].Columns[IdProveedor]"
-                      cachedDataType="i4"
-                      cachedName="IdProveedor"
-                      externalMetadataColumnId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[idProveedor]"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[IdProveedor]" />
-                    <inputColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].Columns[NombreProveedor]"
-                      cachedDataType="wstr"
-                      cachedLength="40"
-                      cachedName="NombreProveedor"
-                      externalMetadataColumnId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[nomProveedor]"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[NombreProveedor]" />
-                  </inputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[direccion]"
-                      dataType="wstr"
-                      length="60"
-                      name="direccion" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[ciudad]"
-                      dataType="wstr"
-                      length="15"
-                      name="ciudad" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[pais]"
-                      dataType="wstr"
-                      length="15"
-                      name="pais" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[telefono]"
-                      dataType="wstr"
-                      length="24"
-                      name="telefono" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[idProveedor]"
-                      dataType="i4"
-                      name="idProveedor" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input].ExternalColumns[nomProveedor]"
-                      dataType="wstr"
-                      length="40"
-                      name="nomProveedor" />
-                  </externalMetadataColumns>
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Outputs[OLE DB Destination Error Output]"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="OLE DB Destination Error Output"
-                  synchronousInputId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\Poblar Proveedor_DIM\Leer Proveedores"
-              componentClassID="Microsoft.OLEDBSource"
-              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
-              description="OLE DB Source"
-              name="Leer Proveedores"
-              usesDispositions="true"
-              version="7">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">[dbo].[Proveedores]</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the variable that contains the name of the database object used to open a rowset."
-                  name="OpenRowsetVariable"></property>
-                <property
-                  dataType="System.String"
-                  description="The SQL command to be executed."
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                <property
-                  dataType="System.String"
-                  description="The variable that contains the SQL command to be executed."
-                  name="SqlCommandVariable"></property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Forces the use of the DefaultCodePage property value when describing character data."
-                  name="AlwaysUseDefaultCodePage">false</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the mode used to access the database."
-                  name="AccessMode"
-                  typeConverter="AccessMode">0</property>
-                <property
-                  dataType="System.String"
-                  description="The mappings between the parameters in the SQL command and variables."
-                  name="ParameterMapping"></property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[DESKTOP-18B08A5.Northwind.admin]"
-                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-18B08A5.Northwind.admin]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
-              </connections>
-              <outputs>
-                <output
-                  refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output]"
-                  name="OLE DB Source Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[IdProveedor]"
-                      dataType="i4"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[IdProveedor]"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[IdProveedor]"
-                      name="IdProveedor"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[NombreProveedor]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[NombreProveedor]"
-                      length="40"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[NombreProveedor]"
-                      name="NombreProveedor"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Direccion]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Direccion]"
-                      length="60"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Direccion]"
-                      name="Direccion"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Ciudad]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Ciudad]"
-                      length="15"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Ciudad]"
-                      name="Ciudad"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Pais]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Pais]"
-                      length="15"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Pais]"
-                      name="Pais"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Telefono]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Telefono]"
-                      length="24"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].Columns[Telefono]"
-                      name="Telefono"
-                      truncationRowDisposition="FailComponent" />
-                  </outputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[NombreContacto]"
-                      dataType="wstr"
-                      length="30"
-                      name="NombreContacto" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[CargoContacto]"
-                      dataType="wstr"
-                      length="30"
-                      name="CargoContacto" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Direccion]"
-                      dataType="wstr"
-                      length="60"
-                      name="Direccion" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Ciudad]"
-                      dataType="wstr"
-                      length="15"
-                      name="Ciudad" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Region]"
-                      dataType="wstr"
-                      length="15"
-                      name="Region" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[CodigoPostal]"
-                      dataType="wstr"
-                      length="10"
-                      name="CodigoPostal" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Pais]"
-                      dataType="wstr"
-                      length="15"
-                      name="Pais" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Telefono]"
-                      dataType="wstr"
-                      length="24"
-                      name="Telefono" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Fax]"
-                      dataType="wstr"
-                      length="24"
-                      name="Fax" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[IdProveedor]"
-                      dataType="i4"
-                      name="IdProveedor" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[NombreProveedor]"
-                      dataType="wstr"
-                      length="40"
-                      name="NombreProveedor" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output].ExternalColumns[Web]"
-                      dataType="nText"
-                      name="Web" />
-                  </externalMetadataColumns>
-                </output>
-                <output
-                  refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output]"
-                  isErrorOut="true"
-                  name="OLE DB Source Error Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[IdProveedor]"
-                      dataType="i4"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[IdProveedor]"
-                      name="IdProveedor" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[NombreProveedor]"
-                      dataType="wstr"
-                      length="40"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[NombreProveedor]"
-                      name="NombreProveedor" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[Direccion]"
-                      dataType="wstr"
-                      length="60"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[Direccion]"
-                      name="Direccion" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[Ciudad]"
-                      dataType="wstr"
-                      length="15"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[Ciudad]"
-                      name="Ciudad" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[Pais]"
-                      dataType="wstr"
-                      length="15"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[Pais]"
-                      name="Pais" />
-                    <outputColumn
-                      refId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[Telefono]"
-                      dataType="wstr"
-                      length="24"
-                      lineageId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Error Output].Columns[Telefono]"
-                      name="Telefono" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-          </components>
-          <paths>
-            <path
-              refId="Package\Poblar Proveedor_DIM.Paths[OLE DB Source Output]"
-              endId="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\Poblar Proveedor_DIM\Leer Proveedores.Outputs[OLE DB Source Output]" />
-          </paths>
-        </pipeline>
-      </DTS:ObjectData>
-    </DTS:Executable>
-    <DTS:Executable
       DTS:refId="Package\Poblar Tiempo_DIM"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
@@ -3140,319 +3052,10 @@ FROM Pedidos;</property>
       </DTS:ObjectData>
     </DTS:Executable>
     <DTS:Executable
-      DTS:refId="Package\Poblar Transportista_DIM"
-      DTS:CreationName="Microsoft.Pipeline"
-      DTS:Description="Data Flow Task"
-      DTS:DTSID="{b108fe7c-b037-4ea3-b4a8-d122863242d5}"
-      DTS:ExecutableType="Microsoft.Pipeline"
-      DTS:LocaleID="-1"
-      DTS:ObjectName="Poblar Transportista_DIM">
-      <DTS:Variables />
-      <DTS:ObjectData>
-        <pipeline
-          version="1">
-          <components>
-            <component
-              refId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM"
-              componentClassID="Microsoft.OLEDBDestination"
-              contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
-              description="OLE DB Destination"
-              name="Escribir Transportista_DIM"
-              usesDispositions="true"
-              version="4">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">[dbo].[Transportista_DIM]</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the variable that contains the name of the database object used to open a rowset."
-                  name="OpenRowsetVariable"></property>
-                <property
-                  dataType="System.String"
-                  description="The SQL command to be executed."
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Forces the use of the DefaultCodePage property value when describing character data."
-                  name="AlwaysUseDefaultCodePage">false</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the mode used to access the database."
-                  name="AccessMode"
-                  typeConverter="AccessMode">3</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the values supplied for identity columns will be copied to the destination. If false, values for identity columns will be auto-generated at the destination. Applies only if fast load is turned on."
-                  name="FastLoadKeepIdentity">false</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Indicates whether the columns containing null will have null inserted in the destination. If false, columns containing null will have their default values inserted at the destination. Applies only if fast load is turned on."
-                  name="FastLoadKeepNulls">false</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies options to be used with fast load.  Applies only if fast load is turned on."
-                  name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies when commits are issued during data insertion.  A value of 0 specifies that one commit will be issued at the end of data insertion.  Applies only if fast load is turned on."
-                  name="FastLoadMaxInsertCommitSize">2147483647</property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[DESKTOP-18B08A5.Northwind_DM.admin]"
-                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-18B08A5.Northwind_DM.admin]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
-              </connections>
-              <inputs>
-                <input
-                  refId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Inputs[OLE DB Destination Input]"
-                  errorOrTruncationOperation="Insert"
-                  errorRowDisposition="FailComponent"
-                  hasSideEffects="true"
-                  name="OLE DB Destination Input">
-                  <inputColumns>
-                    <inputColumn
-                      refId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Inputs[OLE DB Destination Input].Columns[Telefono]"
-                      cachedDataType="wstr"
-                      cachedLength="24"
-                      cachedName="Telefono"
-                      externalMetadataColumnId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Inputs[OLE DB Destination Input].ExternalColumns[telefono]"
-                      lineageId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].Columns[Telefono]" />
-                    <inputColumn
-                      refId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Inputs[OLE DB Destination Input].Columns[IdTransportista]"
-                      cachedDataType="i4"
-                      cachedName="IdTransportista"
-                      externalMetadataColumnId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Inputs[OLE DB Destination Input].ExternalColumns[idTransportista]"
-                      lineageId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].Columns[IdTransportista]" />
-                    <inputColumn
-                      refId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Inputs[OLE DB Destination Input].Columns[NombreTransportista]"
-                      cachedDataType="wstr"
-                      cachedLength="40"
-                      cachedName="NombreTransportista"
-                      externalMetadataColumnId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Inputs[OLE DB Destination Input].ExternalColumns[nomTransportista]"
-                      lineageId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].Columns[NombreTransportista]" />
-                  </inputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Inputs[OLE DB Destination Input].ExternalColumns[telefono]"
-                      dataType="wstr"
-                      length="24"
-                      name="telefono" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Inputs[OLE DB Destination Input].ExternalColumns[idTransportista]"
-                      dataType="i4"
-                      name="idTransportista" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Inputs[OLE DB Destination Input].ExternalColumns[nomTransportista]"
-                      dataType="wstr"
-                      length="40"
-                      name="nomTransportista" />
-                  </externalMetadataColumns>
-                </input>
-              </inputs>
-              <outputs>
-                <output
-                  refId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Outputs[OLE DB Destination Error Output]"
-                  exclusionGroup="1"
-                  isErrorOut="true"
-                  name="OLE DB Destination Error Output"
-                  synchronousInputId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Inputs[OLE DB Destination Input]">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Outputs[OLE DB Destination Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Outputs[OLE DB Destination Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-            <component
-              refId="Package\Poblar Transportista_DIM\Leer Transportista"
-              componentClassID="Microsoft.OLEDBSource"
-              contactInfo="OLE DB Source;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7"
-              description="OLE DB Source"
-              name="Leer Transportista"
-              usesDispositions="true"
-              version="7">
-              <properties>
-                <property
-                  dataType="System.Int32"
-                  description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out."
-                  name="CommandTimeout">0</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the name of the database object used to open a rowset."
-                  name="OpenRowset">[dbo].[Transportistas]</property>
-                <property
-                  dataType="System.String"
-                  description="Specifies the variable that contains the name of the database object used to open a rowset."
-                  name="OpenRowsetVariable"></property>
-                <property
-                  dataType="System.String"
-                  description="The SQL command to be executed."
-                  name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91"></property>
-                <property
-                  dataType="System.String"
-                  description="The variable that contains the SQL command to be executed."
-                  name="SqlCommandVariable"></property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the column code page to use when code page information is unavailable from the data source."
-                  name="DefaultCodePage">1252</property>
-                <property
-                  dataType="System.Boolean"
-                  description="Forces the use of the DefaultCodePage property value when describing character data."
-                  name="AlwaysUseDefaultCodePage">false</property>
-                <property
-                  dataType="System.Int32"
-                  description="Specifies the mode used to access the database."
-                  name="AccessMode"
-                  typeConverter="AccessMode">0</property>
-                <property
-                  dataType="System.String"
-                  description="The mappings between the parameters in the SQL command and variables."
-                  name="ParameterMapping"></property>
-              </properties>
-              <connections>
-                <connection
-                  refId="Package\Poblar Transportista_DIM\Leer Transportista.Connections[OleDbConnection]"
-                  connectionManagerID="Package.ConnectionManagers[DESKTOP-18B08A5.Northwind.admin]"
-                  connectionManagerRefId="Package.ConnectionManagers[DESKTOP-18B08A5.Northwind.admin]"
-                  description="The OLE DB runtime connection used to access the database."
-                  name="OleDbConnection" />
-              </connections>
-              <outputs>
-                <output
-                  refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output]"
-                  name="OLE DB Source Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].Columns[Telefono]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].ExternalColumns[Telefono]"
-                      length="24"
-                      lineageId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].Columns[Telefono]"
-                      name="Telefono"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].Columns[IdTransportista]"
-                      dataType="i4"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].ExternalColumns[IdTransportista]"
-                      lineageId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].Columns[IdTransportista]"
-                      name="IdTransportista"
-                      truncationRowDisposition="FailComponent" />
-                    <outputColumn
-                      refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].Columns[NombreTransportista]"
-                      dataType="wstr"
-                      errorOrTruncationOperation="Conversion"
-                      errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].ExternalColumns[NombreTransportista]"
-                      length="40"
-                      lineageId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].Columns[NombreTransportista]"
-                      name="NombreTransportista"
-                      truncationRowDisposition="FailComponent" />
-                  </outputColumns>
-                  <externalMetadataColumns
-                    isUsed="True">
-                    <externalMetadataColumn
-                      refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].ExternalColumns[Telefono]"
-                      dataType="wstr"
-                      length="24"
-                      name="Telefono" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].ExternalColumns[IdTransportista]"
-                      dataType="i4"
-                      name="IdTransportista" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output].ExternalColumns[NombreTransportista]"
-                      dataType="wstr"
-                      length="40"
-                      name="NombreTransportista" />
-                  </externalMetadataColumns>
-                </output>
-                <output
-                  refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Error Output]"
-                  isErrorOut="true"
-                  name="OLE DB Source Error Output">
-                  <outputColumns>
-                    <outputColumn
-                      refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Error Output].Columns[IdTransportista]"
-                      dataType="i4"
-                      lineageId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Error Output].Columns[IdTransportista]"
-                      name="IdTransportista" />
-                    <outputColumn
-                      refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Error Output].Columns[NombreTransportista]"
-                      dataType="wstr"
-                      length="40"
-                      lineageId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Error Output].Columns[NombreTransportista]"
-                      name="NombreTransportista" />
-                    <outputColumn
-                      refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                      dataType="i4"
-                      lineageId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
-                      name="ErrorCode"
-                      specialFlags="1" />
-                    <outputColumn
-                      refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                      dataType="i4"
-                      lineageId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Error Output].Columns[ErrorColumn]"
-                      name="ErrorColumn"
-                      specialFlags="2" />
-                    <outputColumn
-                      refId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Error Output].Columns[Telefono]"
-                      dataType="wstr"
-                      length="24"
-                      lineageId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Error Output].Columns[Telefono]"
-                      name="Telefono" />
-                  </outputColumns>
-                  <externalMetadataColumns />
-                </output>
-              </outputs>
-            </component>
-          </components>
-          <paths>
-            <path
-              refId="Package\Poblar Transportista_DIM.Paths[OLE DB Source Output]"
-              endId="Package\Poblar Transportista_DIM\Escribir Transportista_DIM.Inputs[OLE DB Destination Input]"
-              name="OLE DB Source Output"
-              startId="Package\Poblar Transportista_DIM\Leer Transportista.Outputs[OLE DB Source Output]" />
-          </paths>
-        </pipeline>
-      </DTS:ObjectData>
-    </DTS:Executable>
-    <DTS:Executable
       DTS:refId="Package\Poblar Ventas_FACT"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
-      DTS:DTSID="{27c26d88-5cfa-4bc5-b49e-913ad75e2986}"
+      DTS:DTSID="{2da0fa32-6690-499e-822e-cb27f2527005}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
       DTS:ObjectName="Poblar Ventas_FACT"
@@ -3684,34 +3287,20 @@ FROM Pedidos;</property>
                   dataType="System.String"
                   description="The SQL command to be executed."
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT 
-
-                   DetallePedidos.IdProducto,
-	VientoNorte_DM..Cliente_DIM.skCliente,
-	VientoNorte_DM..CiudadCliente_DIM.skCiudadCliente,                                           VientoNorte_DM..CiudadProveedor_DIM.skCiudadProveedor,
-                  VientoNorte_DM..CiudadEmpleado_DIM.skCiudadEmpleado,
-	VientoNorte_DM..Tiempo_DIM.skTiempo,
-	DetallePedidos.UnidadesPedidas, 
-                   DetallePedidos.PrecioVenta, 
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT DetallePedidos.IdProducto,
+	Northwind_DM..Cliente_DIM.skCliente,
+	Productos.IdProveedor, Pedidos.IdEmpleado,
+	Pedidos.ViaEmbarque, Northwind_DM..Tiempo_DIM.skFecha,
+	DetallePedidos.Cantidad, DetallePedidos.PrecioUnitario, 
 	DetallePedidos.Cantidad * DetallePedidos.PrecioUnitario * 
-		(1 - DetallePedidos.Descuento) AS MontoPedido
-
+		(1 - DetallePedidos.Descuento) AS Monto
 FROM DetallePedidos INNER JOIN Pedidos
 	ON DetallePedidos.IdPedido = Pedidos.IdPedido
-
-INNER JOIN VientoNorte_DM..Cliente_DIM
-	ON Pedidos.IdCliente = VientoNorte_DM..Cliente_DIM.idCliente
-
-INNER JOIN VientoNorte_DM..CiudadCliente_DIM
-                   ON Clientes.idCliente = VientoNorte_DM..CiudadCliente.Ciudad
-
-INNER JOIN VientoNorte_DM..CiudadProveedor_DIM
-	ON Proveedor.IdProveedor =                                                          VientoNorte_DM..CiudadProveedor_DIM.Ciudad
-
-INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
-	ON Empleado.IdEmpleado =                                                                                        VientoNorte_DM..CiudadEmpleado_DIM.Ciudad
-
-INNER JOIN VientoNorte_DM..Tiempo_DIM
+INNER JOIN Northwind_DM..Cliente_DIM
+	ON Pedidos.IdCliente = Northwind_DM..Cliente_DIM.idCliente
+INNER JOIN Productos
+	ON DetallePedidos.IdProducto = Productos.IdProducto
+INNER JOIN Northwind_DM..Tiempo_DIM
 	ON Pedidos.FechaPedido = Tiempo_DIM.fecha;</property>
                 <property
                   dataType="System.String"
@@ -3983,6 +3572,14 @@ INNER JOIN VientoNorte_DM..Tiempo_DIM
       DTS:ObjectName="Constraint 3"
       DTS:To="Package\Poblar CiudadCliente_DIM" />
     <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 4]"
+      DTS:CreationName=""
+      DTS:DTSID="{F8372DA0-56D4-4D5A-B376-A09D92A99820}"
+      DTS:From="Package\Limpiar VientoNorte_DM"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 4"
+      DTS:To="Package\Poblar CiudadProveedor_DIM" />
+    <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 5]"
       DTS:CreationName=""
       DTS:DTSID="{C70A44ED-A91A-4C7F-851D-E3A30891B626}"
@@ -4014,27 +3611,19 @@ INNER JOIN VientoNorte_DM..Tiempo_DIM
         <NodeLayout
           Size="215,42"
           Id="Package\Poblar CiudadEmpleado_DIM"
-          TopLeft="1569,245" />
+          TopLeft="1163,272" />
         <NodeLayout
           Size="179,42"
           Id="Package\Poblar Producto_DIM"
           TopLeft="674,21" />
         <NodeLayout
-          Size="185,42"
-          Id="Package\Poblar Proveedor_DIM"
-          TopLeft="1055,221" />
+          Size="217,42"
+          Id="Package\Poblar CiudadProveedor_DIM"
+          TopLeft="688,235" />
         <NodeLayout
           Size="172,42"
           Id="Package\Poblar Tiempo_DIM"
-          TopLeft="1559,47" />
-        <NodeLayout
-          Size="199,42"
-          Id="Package\Poblar Transportista_DIM"
-          TopLeft="999,155" />
-        <NodeLayout
-          Size="174,42"
-          Id="Package\Poblar Ventas_FACT"
-          TopLeft="353,341" />
+          TopLeft="1163,206" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
           TopLeft="322.5,64">
@@ -4132,33 +3721,33 @@ INNER JOIN VientoNorte_DM..Tiempo_DIM
         <NodeLayout
           Size="201,42"
           Id="Package\Poblar CiudadCliente_DIM"
-          TopLeft="438,205" />
+          TopLeft="402,235" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="340.4,64">
+          TopLeft="322.5,64">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="198.1,141"
+              EndConnector="180,171"
               Start="0,0"
-              End="198.1,133.5">
+              End="180,163.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,59.0372560615021" />
+                    End="0,81.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,59.0372560615021"
-                    Point2="0,63.0372560615021"
-                    Point3="4,63.0372560615021" />
+                    Point1="0,81.5"
+                    Point2="0,85.5"
+                    Point3="4,85.5" />
                   <mssgle:LineSegment
-                    End="194.1,63.0372560615021" />
+                    End="176,85.5" />
                   <mssgle:CubicBezierSegment
-                    Point1="194.1,63.0372560615021"
-                    Point2="198.1,63.0372560615021"
-                    Point3="198.1,67.0372560615021" />
+                    Point1="176,85.5"
+                    Point2="180,85.5"
+                    Point3="180,89.5" />
                   <mssgle:LineSegment
-                    End="198.1,133.5" />
+                    End="180,163.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4170,33 +3759,33 @@ INNER JOIN VientoNorte_DM..Tiempo_DIM
         <NodeLayout
           Size="202,42"
           Id="Package\Poblar PaisEmpleado_DIM"
-          TopLeft="691,151" />
+          TopLeft="828,101" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 5]"
-          TopLeft="376.2,64">
+          TopLeft="382.166666666667,64">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="415.8,87"
+              EndConnector="546.833333333333,37"
               Start="0,0"
-              End="415.8,79.5">
+              End="546.833333333333,29.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,21.9759939984996" />
+                    End="0,5.83115183246073" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,21.9759939984996"
-                    Point2="0,25.9759939984996"
-                    Point3="4,25.9759939984996" />
+                    Point1="0,5.83115183246073"
+                    Point2="0,9.83115183246073"
+                    Point3="4,9.83115183246073" />
                   <mssgle:LineSegment
-                    End="411.8,25.9759939984996" />
+                    End="542.833333333333,9.83115183246073" />
                   <mssgle:CubicBezierSegment
-                    Point1="411.8,25.9759939984996"
-                    Point2="415.8,25.9759939984996"
-                    Point3="415.8,29.9759939984996" />
+                    Point1="542.833333333333,9.83115183246073"
+                    Point2="546.833333333333,9.83115183246073"
+                    Point3="546.833333333333,13.8311518324607" />
                   <mssgle:LineSegment
-                    End="415.8,79.5" />
+                    End="546.833333333333,29.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4205,6 +3794,44 @@ INNER JOIN VientoNorte_DM..Tiempo_DIM
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 4]"
+          TopLeft="352.333333333333,64">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="444.166666666667,171"
+              Start="0,0"
+              End="444.166666666667,163.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,65.270413573701" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,65.270413573701"
+                    Point2="0,69.270413573701"
+                    Point3="4,69.270413573701" />
+                  <mssgle:LineSegment
+                    End="440.166666666667,69.270413573701" />
+                  <mssgle:CubicBezierSegment
+                    Point1="440.166666666667,69.270413573701"
+                    Point2="444.166666666667,69.270413573701"
+                    Point3="444.166666666667,73.270413573701" />
+                  <mssgle:LineSegment
+                    End="444.166666666667,163.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <NodeLayout
+          Size="174,42"
+          Id="Package\Poblar Ventas_FACT"
+          TopLeft="1168,361" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
@@ -4439,20 +4066,20 @@ INNER JOIN VientoNorte_DM..Tiempo_DIM
     </Properties>
   </PipelineComponentMetadata>
   <TaskHost
-    design-time-name="Package\Poblar Proveedor_DIM">
+    design-time-name="Package\Poblar CiudadProveedor_DIM">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="161,42"
-          Id="Package\Poblar Proveedor_DIM\Leer Proveedores"
+          Id="Package\Poblar CiudadProveedor_DIM\Leer Proveedores"
           TopLeft="146,33" />
         <NodeLayout
           Size="189,42"
-          Id="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM"
+          Id="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM"
           TopLeft="288.5,152.5" />
         <EdgeLayout
-          Id="Package\Poblar Proveedor_DIM.Paths[OLE DB Source Output]"
+          Id="Package\Poblar CiudadProveedor_DIM.Paths[OLE DB Source Output]"
           TopLeft="226.5,75">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -4482,16 +4109,14 @@ INNER JOIN VientoNorte_DM..Tiempo_DIM
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
   <PipelineComponentMetadata
-    design-time-name="Package\Poblar Proveedor_DIM\Escribir Proveedor_DIM">
+    design-time-name="Package\Poblar CiudadProveedor_DIM\Escribir Proveedor_DIM">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -4504,7 +4129,7 @@ INNER JOIN VientoNorte_DM..Tiempo_DIM
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Poblar Proveedor_DIM\Leer Proveedores">
+    design-time-name="Package\Poblar CiudadProveedor_DIM\Leer Proveedores">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -4622,155 +4247,6 @@ INNER JOIN VientoNorte_DM..Tiempo_DIM
         <Name>TableInfoObjectType</Name>
         <Value
           type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Poblar Transportista_DIM">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
-        <NodeLayout
-          Size="165,42"
-          Id="Package\Poblar Transportista_DIM\Leer Transportista"
-          TopLeft="146,33" />
-        <NodeLayout
-          Size="204,42"
-          Id="Package\Poblar Transportista_DIM\Escribir Transportista_DIM"
-          TopLeft="288.5,152.5" />
-        <EdgeLayout
-          Id="Package\Poblar Transportista_DIM.Paths[OLE DB Source Output]"
-          TopLeft="228.5,75">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="162,77.5"
-              Start="0,0"
-              End="162,70">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,34.75" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,34.75"
-                    Point2="0,38.75"
-                    Point3="4,38.75" />
-                  <mssgle:LineSegment
-                    End="158,38.75" />
-                  <mssgle:CubicBezierSegment
-                    Point1="158,38.75"
-                    Point2="162,38.75"
-                    Point3="162,42.75" />
-                  <mssgle:LineSegment
-                    End="162,70" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Poblar Transportista_DIM\Escribir Transportista_DIM">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Poblar Transportista_DIM\Leer Transportista">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\Poblar Ventas_FACT">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="178,42"
-          Id="Package\Poblar Ventas_FACT\Leer datos de Ventas"
-          TopLeft="161,79" />
-        <NodeLayout
-          Size="179,42"
-          Id="Package\Poblar Ventas_FACT\Escribir Ventas_FACT"
-          TopLeft="429,238" />
-        <EdgeLayout
-          Id="Package\Poblar Ventas_FACT.Paths[OLE DB Source Output]"
-          TopLeft="250,121">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="268.5,117"
-              Start="0,0"
-              End="268.5,109.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,54.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,54.5"
-                    Point2="0,58.5"
-                    Point3="4,58.5" />
-                  <mssgle:LineSegment
-                    End="264.5,58.5" />
-                  <mssgle:CubicBezierSegment
-                    Point1="264.5,58.5"
-                    Point2="268.5,58.5"
-                    Point3="268.5,62.5" />
-                  <mssgle:LineSegment
-                    End="268.5,109.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Poblar Ventas_FACT\Escribir Ventas_FACT">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Poblar Ventas_FACT\Leer datos de Ventas">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
@@ -5002,5 +4478,57 @@ INNER JOIN VientoNorte_DM..Tiempo_DIM
       </Property>
     </Properties>
   </PipelineComponentMetadata>
+  <TaskHost
+    design-time-name="Package\Poblar Ventas_FACT">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        <NodeLayout
+          Size="179,42"
+          Id="Package\Poblar Ventas_FACT\Escribir Ventas_FACT"
+          TopLeft="429,238" />
+        <NodeLayout
+          Size="178,42"
+          Id="Package\Poblar Ventas_FACT\Leer datos de Ventas"
+          TopLeft="161,79" />
+        <EdgeLayout
+          Id="Package\Poblar Ventas_FACT.Paths[OLE DB Source Output]"
+          TopLeft="250,121">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="268.5,117"
+              Start="0,0"
+              End="268.5,109.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,54.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,54.5"
+                    Point2="0,58.5"
+                    Point3="4,58.5" />
+                  <mssgle:LineSegment
+                    End="264.5,58.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="264.5,58.5"
+                    Point2="268.5,58.5"
+                    Point3="268.5,62.5" />
+                  <mssgle:LineSegment
+                    End="268.5,109.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </TaskHost>
 </Objects>]]></DTS:DesignTimeProperties>
 </DTS:Executable>
