@@ -11,8 +11,8 @@
   DTS:LocaleID="10250"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="37"
-  DTS:VersionGUID="{76967B0C-A7F2-406F-945A-5F9EA07C197D}">
+  DTS:VersionBuild="49"
+  DTS:VersionGUID="{0EE04FAD-8BD5-429D-9EB2-41F3054AC802}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACn+rHaNVXoPw3ebeddHUlvzmRrXVrPxsshyO9hD/78FQAAAAAOgAAAAAIAACAAAAD+pc/mY0fHTcczZr0WftKi7if4t5INR93VU5AjOZX9rCAAAACwQwZOZmx0huz9Z+3jCiA6g6jp1ts/BGRJNHiY9XLM7UAAAACXT6J6/lRmI0t+jZwh2DLm1z4EjENRaSdXYqxGewyeYl6dCjqouiTClVXkbFf4EfcSZLfAqsvtRp8ak3ab4GbQ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACqrtK294HH8kNN3FO5zdD404JfJOo8iJtUmcE/aMmbUwAAAAAOgAAAAAIAACAAAAAvQin9uOYS52pmBGa6SulwDf1WbIqwjox8xuIwpB2UoCAAAABXYmQH7hfp3iprmSyVhszdNQIbemOcMm6GVImoHuPkvUAAAAA6VkACbrmh1iIXD4i2xudFB6XNp2QIadYbIIDk7tZxK5brKR6iEcl4YMD6Tgd/02Xq8RXYMO2OUvTbw+3+DQAS</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -46,7 +46,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAHdIB2eNkIv6BxEg5kc2bRBqrqJ5e3+TdiXf1OoGOPrwAAAAAOgAAAAAIAACAAAABxxkTMmYgH2udQTz+rzxERaH0uxiNbapVSNd859X4ofCAAAAAiRLTGk5aOP0v0psWnI1lxkx4kZ/8RIuI7KTuMUvhldEAAAABCxI4QmvOtyqjhMq0ckufKdmkTNEF0q/0OfiUKoP2jI43R0rmQG99FsnC7tCGdI4GFlNXaAnVfWfN3t/1feakK</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABuR5uU1IOpQ1j/Fo2Gxey7CwIp/Ryepsz2vM37VGujwgAAAAAOgAAAAAIAACAAAAB9NrOh7DWLvbVgHC8qaCMiOB1dcKQws9mzdn6V4mqzliAAAAC42Rp0hkg+5n2O9liA/FrNzfMUtl6O7e47qT8X51n00UAAAADhLTKD513kSzfqNKKqX2c8OcG8gNCO+v/5B8YDkJY6MIQ+dmES+CWlpkR77IZSKmzS2pyCRNx3riWYWmvqHdXu</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -63,7 +63,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAmAfAdgy8XLmGA/bTfLOrKQWXv0pDxofbQzg6OxGEZdAAAAAAOgAAAAAIAACAAAACpWROieA3iyFeZk3RLqW2wwKoppsqs9Mv8jvsqCNAj0SAAAAA7esTT/6+XwxxcxAKjYOmA0DrPRSDd64pS2J2IGDQIsEAAAAB5AMtypZ/sH9Dbv0Pg5on+tHdlOg7idpw9BA8gSOAwMZ2RIIdJ8n1HmkapE7HObd6EbbJgw/AnfRZTfoVU9jSd</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACYs3ilA981QpN+xtmnmCNzWtsmcQ98QKnhL6Oz6aw4UwAAAAAOgAAAAAIAACAAAABapl18PC2IXg/R0rqwGpegpPueL0g/b3B7peHlO0hBnyAAAABNZOkGHHq8NmaR0WBRstkQPtxj/stsjqrNqEnBaUkGBkAAAADnIrzjZYoVzP+E9Q3j83/l840SWcfN86KaqGUQWJymDulpU7Yn9vVX+Hky6Xhll9GI3SfT3Ns86UCsyT6Yl3tV</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -80,7 +80,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABggb5s/VvzHyNu/fCWBBWudf+wjyjqtTDjF4N/ipMCZQAAAAAOgAAAAAIAACAAAABSH8UnbOzPPO0vNrhHSVtf4nUMDyLdXD3BavmtbqwVjiAAAABcqsYkTY11RD+MYKXII3x+pAnQMYJNRApV5xjZ+S1a2EAAAAD/izLKwBlTNS85hZ572fYQDdBxgrCmFAJ6ghyLNuqqNVRLuBRQQp63LHUAT9Yu5+VLE4v/vzLOFDx19BPhcefJ</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACOQkCMwzu0No++KFordBamR/B+FrBbJDKcGolh45yaHwAAAAAOgAAAAAIAACAAAAA6G4E+rT2LxznwyGkoSK/Clhmcy/X5aFAt9YXGyODdbyAAAACffAZQmUNCpWUqAzponzkUu/GO5ny588jSgolOtg4zlEAAAADS3nTPOA5W6fYPP6zWQ/mBdxigzW8mOt/9hujLbhqmp0dbwHX08bGljNeSysrb/VePwCYvOwJcJ12oElylJ5zs</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -97,7 +97,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABWoLm11las6NUjNihy2QmGumRvi6PxNxf+im5RC3AH8AAAAAAOgAAAAAIAACAAAADd61faixG/SI3/j+6iftYZb3n5KfAwHHio9PmQz9dBsSAAAABs0UgzTdh+VIl+WvSHBVB2N/zD4InB5zWPyKx0wdEQCEAAAADHxXOMF1/DuB6NjFk+I2qTt0hZfS0b4TEiqHyW2k+QiiZJE4AqFKWWrHHJDfAL3E/JLMwrKEgEB11LIUw/3Rj/</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACG7rDDnpgTM4tbp/phOmXC9yj1JIvu0d2B/xezwYQmYQAAAAAOgAAAAAIAACAAAACbnHhdUE5vGTYfbxsfIcPTHLQnndl9R/Z3eb6ig+XP3CAAAADnx3wjr0l2JNF4lv3hnkm9pXDwyNFWsJNKwadPCb4xbEAAAADNxg2w13dRQccZNNUiDTy8ltb4r9nmXrZxC8Qcm80m0FLjZ5x+X9gPin7X/29sG+vbtLXCg0uGI7BcrwJTbc6s</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -114,7 +114,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAzs/Bu7j02G9S0qZji7gzPdd+DHaNlXq08qVPz00qgZAAAAAAOgAAAAAIAACAAAABknxM7WeiuYaU0/yviEOSEFFuHDH9v+q4L05psGxCKBSAAAAD0BU/BMCkZ6sZrXQe+lR/0hHZYOuIvW7YTUPbx4Q0EPkAAAAC7x/Bi897ahjqrAZuQMuyGgajUGnhdH87btWnoiq7V2vYBCqJH4l4nZtUQIzFF4LUOneW6nYhL+X5A4bhTL9xD</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+G9+g3kEmEaIcUrgpio99gAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADJW9d2qifCLLpkwTayuGKUGdCky2hK8uUEv6uTZKmbHQAAAAAOgAAAAAIAACAAAABU8J+UQ/r1T0fr/sfKtYweNyRXMFl2atypE31yt9FmTiAAAAD9sRtrLjH4QFgOFTE8boq/hHjgxPOpWlmFDgLPmMldhUAAAACojPhm7vReMUABHUjnfpxqspm2lZ9Jss57iapoqtNG3mL2hkb7zYcis00tnA98HHFM83/kYeT8WVB4HslnUkc2</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -2416,6 +2416,162 @@ FROM Productos INNER JOIN Categorias
           version="1">
           <components>
             <component
+              refId="Package\Poblar Tiempo_DIM\Data Conversion"
+              componentClassID="Microsoft.DataConvert"
+              contactInfo="Data Conversion;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
+              description="Data Conversion"
+              name="Data Conversion"
+              usesDispositions="true">
+              <inputs>
+                <input
+                  refId="Package\Poblar Tiempo_DIM\Data Conversion.Inputs[Data Conversion Input]"
+                  name="Data Conversion Input">
+                  <inputColumns>
+                    <inputColumn
+                      refId="Package\Poblar Tiempo_DIM\Data Conversion.Inputs[Data Conversion Input].Columns[Semestre]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="14"
+                      cachedName="Semestre"
+                      lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Semestre]" />
+                    <inputColumn
+                      refId="Package\Poblar Tiempo_DIM\Data Conversion.Inputs[Data Conversion Input].Columns[Trimestre]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="25"
+                      cachedName="Trimestre"
+                      lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Trimestre]" />
+                    <inputColumn
+                      refId="Package\Poblar Tiempo_DIM\Data Conversion.Inputs[Data Conversion Input].Columns[Mes]"
+                      cachedCodepage="1252"
+                      cachedDataType="str"
+                      cachedLength="25"
+                      cachedName="Mes"
+                      lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Mes]" />
+                    <inputColumn
+                      refId="Package\Poblar Tiempo_DIM\Data Conversion.Inputs[Data Conversion Input].Columns[Año]"
+                      cachedDataType="i4"
+                      cachedName="Año"
+                      lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Año]" />
+                  </inputColumns>
+                  <externalMetadataColumns />
+                </input>
+              </inputs>
+              <outputs>
+                <output
+                  refId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output]"
+                  exclusionGroup="1"
+                  name="Data Conversion Output"
+                  synchronousInputId="Package\Poblar Tiempo_DIM\Data Conversion.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Semestre]"
+                      dataType="i8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Semestre]"
+                      name="Copy of Semestre"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Semestre]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Trimestre]"
+                      dataType="i8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Trimestre]"
+                      name="Copy of Trimestre"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Trimestre]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Mes]"
+                      dataType="i8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Mes]"
+                      name="Copy of Mes"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Mes]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                    <outputColumn
+                      refId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Año]"
+                      dataType="i8"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      lineageId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Año]"
+                      name="Copy of Año"
+                      truncationRowDisposition="FailComponent">
+                      <properties>
+                        <property
+                          containsID="true"
+                          dataType="System.Int32"
+                          description="Specifies the input column used as the source of data for the conversion."
+                          name="SourceInputColumnLineageID">#{Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Año]}</property>
+                        <property
+                          dataType="System.Boolean"
+                          description="Indicates whether the column uses the faster, locale-neutral parsing routines."
+                          name="FastParse">false</property>
+                      </properties>
+                    </outputColumn>
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+                <output
+                  refId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Error Output]"
+                  exclusionGroup="1"
+                  isErrorOut="true"
+                  name="Data Conversion Error Output"
+                  synchronousInputId="Package\Poblar Tiempo_DIM\Data Conversion.Inputs[Data Conversion Input]">
+                  <outputColumns>
+                    <outputColumn
+                      refId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      dataType="i4"
+                      lineageId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorCode]"
+                      name="ErrorCode"
+                      specialFlags="1" />
+                    <outputColumn
+                      refId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      dataType="i4"
+                      lineageId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Error Output].Columns[ErrorColumn]"
+                      name="ErrorColumn"
+                      specialFlags="2" />
+                  </outputColumns>
+                  <externalMetadataColumns />
+                </output>
+              </outputs>
+            </component>
+            <component
               refId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM"
               componentClassID="Microsoft.OLEDBDestination"
               contactInfo="OLE DB Destination;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;4"
@@ -2494,34 +2650,29 @@ FROM Productos INNER JOIN Categorias
                       externalMetadataColumnId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].ExternalColumns[FechaPedido]"
                       lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[FechaPedido]" />
                     <inputColumn
-                      refId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].Columns[NomMes]"
-                      cachedDataType="wstr"
-                      cachedLength="30"
-                      cachedName="NomMes"
+                      refId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].Columns[Copy of Mes]"
+                      cachedDataType="i8"
+                      cachedName="Copy of Mes"
                       externalMetadataColumnId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].ExternalColumns[MesFechaPedido]"
-                      lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[NomMes]" />
+                      lineageId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Mes]" />
                     <inputColumn
-                      refId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].Columns[Trimestre]"
-                      cachedCodepage="1252"
-                      cachedDataType="str"
-                      cachedLength="25"
-                      cachedName="Trimestre"
+                      refId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].Columns[Copy of Trimestre]"
+                      cachedDataType="i8"
+                      cachedName="Copy of Trimestre"
                       externalMetadataColumnId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].ExternalColumns[TrimestreFechaPedido]"
-                      lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Trimestre]" />
+                      lineageId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Trimestre]" />
                     <inputColumn
-                      refId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].Columns[Semestre]"
-                      cachedCodepage="1252"
-                      cachedDataType="str"
-                      cachedLength="14"
-                      cachedName="Semestre"
+                      refId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].Columns[Copy of Semestre]"
+                      cachedDataType="i8"
+                      cachedName="Copy of Semestre"
                       externalMetadataColumnId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].ExternalColumns[SemestreFechaPedido]"
-                      lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Semestre]" />
+                      lineageId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Semestre]" />
                     <inputColumn
-                      refId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].Columns[Año]"
-                      cachedDataType="i4"
-                      cachedName="Año"
+                      refId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].Columns[Copy of Año]"
+                      cachedDataType="i8"
+                      cachedName="Copy of Año"
                       externalMetadataColumnId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input].ExternalColumns[AñoFechaPedido]"
-                      lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Año]" />
+                      lineageId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output].Columns[Copy of Año]" />
                   </inputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -2602,15 +2753,12 @@ FROM Productos INNER JOIN Categorias
                   dataType="System.String"
                   description="The SQL command to be executed."
                   name="SqlCommand"
-                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT DISTINCT FechaPedido, 
-		year(FechaPedido) AS Año, 
-		iif(datepart(month, FechaPedido) &lt;= 6, 
-		concat(year(FechaPedido), 1), 
-		concat(year(FechaPedido), 2)) AS Semestre,
-		concat(year(FechaPedido), datepart(quarter, FechaPedido)) AS Trimestre,
-		concat(year(FechaPedido), iif(datepart(month, FechaPedido) &gt; 9, '', 0),
-		datepart(month, FechaPedido)) AS Mes,
-		datename(month, FechaPedido) AS NomMes
+                  UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=16.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">SELECT DISTINCT FechaPedido, year(FechaPedido) AS Año, 
+	iif(datepart(month, FechaPedido) &lt;= 6, 
+	concat(year(FechaPedido), '1'), 
+	concat(year(FechaPedido), '2')) AS Semestre,
+	concat(year(FechaPedido), datepart(quarter, FechaPedido)) AS Trimestre,
+	month(FechaPedido) AS Mes
 FROM Pedidos;</property>
                 <property
                   dataType="System.String"
@@ -2688,14 +2836,15 @@ FROM Pedidos;</property>
                       name="Trimestre"
                       truncationRowDisposition="FailComponent" />
                     <outputColumn
-                      refId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[NomMes]"
-                      dataType="wstr"
+                      refId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Mes]"
+                      codePage="1252"
+                      dataType="str"
                       errorOrTruncationOperation="Conversion"
                       errorRowDisposition="FailComponent"
-                      externalMetadataColumnId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].ExternalColumns[NomMes]"
-                      length="30"
-                      lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[NomMes]"
-                      name="NomMes"
+                      externalMetadataColumnId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].ExternalColumns[Mes]"
+                      length="25"
+                      lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].Columns[Mes]"
+                      name="Mes"
                       truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
@@ -2712,7 +2861,7 @@ FROM Pedidos;</property>
                       refId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].ExternalColumns[Semestre]"
                       codePage="1252"
                       dataType="str"
-                      length="24"
+                      length="13"
                       name="Semestre" />
                     <externalMetadataColumn
                       refId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].ExternalColumns[Trimestre]"
@@ -2722,15 +2871,8 @@ FROM Pedidos;</property>
                       name="Trimestre" />
                     <externalMetadataColumn
                       refId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].ExternalColumns[Mes]"
-                      codePage="1252"
-                      dataType="str"
-                      length="36"
+                      dataType="i4"
                       name="Mes" />
-                    <externalMetadataColumn
-                      refId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output].ExternalColumns[NomMes]"
-                      dataType="wstr"
-                      length="30"
-                      name="NomMes" />
                   </externalMetadataColumns>
                 </output>
                 <output
@@ -2752,7 +2894,7 @@ FROM Pedidos;</property>
                       refId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Error Output].Columns[Semestre]"
                       codePage="1252"
                       dataType="str"
-                      length="24"
+                      length="13"
                       lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Error Output].Columns[Semestre]"
                       name="Semestre" />
                     <outputColumn
@@ -2763,11 +2905,10 @@ FROM Pedidos;</property>
                       lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Error Output].Columns[Trimestre]"
                       name="Trimestre" />
                     <outputColumn
-                      refId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Error Output].Columns[NomMes]"
-                      dataType="wstr"
-                      length="30"
-                      lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Error Output].Columns[NomMes]"
-                      name="NomMes" />
+                      refId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Error Output].Columns[Mes]"
+                      dataType="i4"
+                      lineageId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Error Output].Columns[Mes]"
+                      name="Mes" />
                     <outputColumn
                       refId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Error Output].Columns[ErrorCode]"
                       dataType="i4"
@@ -2788,8 +2929,13 @@ FROM Pedidos;</property>
           </components>
           <paths>
             <path
-              refId="Package\Poblar Tiempo_DIM.Paths[OLE DB Source Output]"
+              refId="Package\Poblar Tiempo_DIM.Paths[Data Conversion Output]"
               endId="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM.Inputs[OLE DB Destination Input]"
+              name="Data Conversion Output"
+              startId="Package\Poblar Tiempo_DIM\Data Conversion.Outputs[Data Conversion Output]" />
+            <path
+              refId="Package\Poblar Tiempo_DIM.Paths[OLE DB Source Output]"
+              endId="Package\Poblar Tiempo_DIM\Data Conversion.Inputs[Data Conversion Input]"
               name="OLE DB Source Output"
               startId="Package\Poblar Tiempo_DIM\Leer Fecha Pedido.Outputs[OLE DB Source Output]" />
           </paths>
@@ -3031,6 +3177,7 @@ FROM Pedidos;</property>
 	VientoNorte_DM..CiudadCliente_DIM.SkCiudadCliente,
 	VientoNorte_DM..CiudadProveedor_DIM.SkCiudadProveedor,
 	VientoNorte_DM..CiudadEmpleado_DIM.SkCiudadEmpleado,
+	VientoNorte_DM..Tiempo_DIM.SkTiempo,
 	DetallePedidos.Cantidad,
 	DetallePedidos.PrecioUnitario,
 	DetallePedidos.Cantidad * DetallePedidos.PrecioUnitario * 
@@ -3052,7 +3199,9 @@ INNER JOIN VientoNorte_DM..CiudadProveedor_DIM
 INNER JOIN Empleados
 	ON Empleados.IdEmpleado = Pedidos.IdEmpleado
 INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
-	ON VientoNorte_DM..CiudadEmpleado_DIM.NombreCiudadEmpleado = Empleados.Ciudad</property>
+	ON VientoNorte_DM..CiudadEmpleado_DIM.NombreCiudadEmpleado = Empleados.Ciudad
+INNER JOIN VientoNorte_DM..Tiempo_DIM
+	ON VientoNorte_DM..Tiempo_DIM.FechaPedido = Pedidos.FechaPedido</property>
                 <property
                   dataType="System.String"
                   description="The variable that contains the SQL command to be executed."
@@ -3160,6 +3309,15 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
                       lineageId="Package\Poblar Ventas_FACT\Leer datos de Ventas.Outputs[OLE DB Source Output].Columns[SkCiudadEmpleado]"
                       name="SkCiudadEmpleado"
                       truncationRowDisposition="FailComponent" />
+                    <outputColumn
+                      refId="Package\Poblar Ventas_FACT\Leer datos de Ventas.Outputs[OLE DB Source Output].Columns[SkTiempo]"
+                      dataType="i4"
+                      errorOrTruncationOperation="Conversion"
+                      errorRowDisposition="FailComponent"
+                      externalMetadataColumnId="Package\Poblar Ventas_FACT\Leer datos de Ventas.Outputs[OLE DB Source Output].ExternalColumns[SkTiempo]"
+                      lineageId="Package\Poblar Ventas_FACT\Leer datos de Ventas.Outputs[OLE DB Source Output].Columns[SkTiempo]"
+                      name="SkTiempo"
+                      truncationRowDisposition="FailComponent" />
                   </outputColumns>
                   <externalMetadataColumns
                     isUsed="True">
@@ -3195,6 +3353,10 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
                       refId="Package\Poblar Ventas_FACT\Leer datos de Ventas.Outputs[OLE DB Source Output].ExternalColumns[SkCiudadEmpleado]"
                       dataType="i4"
                       name="SkCiudadEmpleado" />
+                    <externalMetadataColumn
+                      refId="Package\Poblar Ventas_FACT\Leer datos de Ventas.Outputs[OLE DB Source Output].ExternalColumns[SkTiempo]"
+                      dataType="i4"
+                      name="SkTiempo" />
                   </externalMetadataColumns>
                 </output>
                 <output
@@ -3227,6 +3389,11 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
                       dataType="i4"
                       lineageId="Package\Poblar Ventas_FACT\Leer datos de Ventas.Outputs[OLE DB Source Error Output].Columns[SkCiudadEmpleado]"
                       name="SkCiudadEmpleado" />
+                    <outputColumn
+                      refId="Package\Poblar Ventas_FACT\Leer datos de Ventas.Outputs[OLE DB Source Error Output].Columns[SkTiempo]"
+                      dataType="i4"
+                      lineageId="Package\Poblar Ventas_FACT\Leer datos de Ventas.Outputs[OLE DB Source Error Output].Columns[SkTiempo]"
+                      name="SkTiempo" />
                     <outputColumn
                       refId="Package\Poblar Ventas_FACT\Leer datos de Ventas.Outputs[OLE DB Source Error Output].Columns[Cantidad]"
                       dataType="i2"
@@ -3283,8 +3450,8 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 1]"
       DTS:CreationName=""
-      DTS:DTSID="{22A9B385-460C-4A91-9771-B583784CBAB5}"
-      DTS:From="Package\Limpiar VientoNorte_DM"
+      DTS:DTSID="{91A24BD1-0B23-4657-B70C-34F6DADFB0BB}"
+      DTS:From="Package\Poblar Categoria_DIM"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 1"
       DTS:To="Package\Poblar Producto_DIM" />
@@ -3307,10 +3474,26 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 12]"
       DTS:CreationName=""
-      DTS:DTSID="{03130419-4D28-42B1-8880-FE2985BCCFC3}"
-      DTS:From="Package\Poblar Producto_DIM"
+      DTS:DTSID="{1AD21E6F-C140-4B6B-A483-2E5EE1653959}"
+      DTS:From="Package\Poblar PaisEmpleado_DIM"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 12"
+      DTS:To="Package\Poblar Ventas_FACT" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 13]"
+      DTS:CreationName=""
+      DTS:DTSID="{B62729D7-14E8-43F1-BC94-8D4016668321}"
+      DTS:From="Package\Limpiar VientoNorte_DM"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 13"
+      DTS:To="Package\Poblar Tiempo_DIM" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Constraint 14]"
+      DTS:CreationName=""
+      DTS:DTSID="{F0123652-77A3-45E9-B291-DFE03CA5B458}"
+      DTS:From="Package\Poblar Tiempo_DIM"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Constraint 14"
       DTS:To="Package\Poblar Ventas_FACT" />
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 2]"
@@ -3347,8 +3530,8 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 6]"
       DTS:CreationName=""
-      DTS:DTSID="{453DD4D2-8FEE-4CF0-8258-82C271E466B0}"
-      DTS:From="Package\Poblar PaisEmpleado_DIM"
+      DTS:DTSID="{214A4744-BC8A-4F08-AC59-7E44F3A5D07C}"
+      DTS:From="Package\Limpiar VientoNorte_DM"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 6"
       DTS:To="Package\Poblar CiudadEmpleado_DIM" />
@@ -3363,8 +3546,8 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
     <DTS:PrecedenceConstraint
       DTS:refId="Package.PrecedenceConstraints[Constraint 8]"
       DTS:CreationName=""
-      DTS:DTSID="{277AF9EA-2B53-4D35-BF9C-12E19C629B7B}"
-      DTS:From="Package\Poblar Categoria_DIM"
+      DTS:DTSID="{4294980D-469D-4ECA-87DC-7DB06395D350}"
+      DTS:From="Package\Poblar Producto_DIM"
       DTS:LogicalAnd="True"
       DTS:ObjectName="Constraint 8"
       DTS:To="Package\Poblar Ventas_FACT" />
@@ -3400,15 +3583,15 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
         <NodeLayout
           Size="201,42"
           Id="Package\Poblar CiudadCliente_DIM"
-          TopLeft="386,209" />
+          TopLeft="351,221" />
         <NodeLayout
           Size="215,42"
           Id="Package\Poblar CiudadEmpleado_DIM"
-          TopLeft="942,202" />
+          TopLeft="886,214" />
         <NodeLayout
           Size="217,42"
           Id="Package\Poblar CiudadProveedor_DIM"
-          TopLeft="676,200" />
+          TopLeft="608,224" />
         <NodeLayout
           Size="169,42"
           Id="Package\Poblar Cliente_DIM"
@@ -3416,19 +3599,19 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
         <NodeLayout
           Size="202,42"
           Id="Package\Poblar PaisEmpleado_DIM"
-          TopLeft="828,101" />
+          TopLeft="717,17" />
         <NodeLayout
           Size="179,42"
           Id="Package\Poblar Producto_DIM"
-          TopLeft="676,16" />
+          TopLeft="69,344" />
         <NodeLayout
           Size="172,42"
           Id="Package\Poblar Tiempo_DIM"
-          TopLeft="1419,104" />
+          TopLeft="1159,214" />
         <NodeLayout
           Size="174,42"
           Id="Package\Poblar Ventas_FACT"
-          TopLeft="431,368" />
+          TopLeft="485,385" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
           TopLeft="322.5,64">
@@ -3464,19 +3647,65 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="416,40">
+          Id="Package.PrecedenceConstraints[Constraint 10]"
+          TopLeft="716.5,266">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="260,0"
+              EndConnector="-144.5,119"
               Start="0,0"
-              End="252.5,0">
+              End="-144.5,111.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="252.5,0" />
+                    End="0,55.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,55.5"
+                    Point2="0,59.5"
+                    Point3="-4,59.5" />
+                  <mssgle:LineSegment
+                    End="-140.5,59.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-140.5,59.5"
+                    Point2="-144.5,59.5"
+                    Point3="-144.5,63.5" />
+                  <mssgle:LineSegment
+                    End="-144.5,111.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 11]"
+          TopLeft="993.5,256">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-393.833333333333,129"
+              Start="0,0"
+              End="-393.833333333333,121.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,72.6947608200455" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,72.6947608200455"
+                    Point2="0,76.6947608200455"
+                    Point3="-4,76.6947608200455" />
+                  <mssgle:LineSegment
+                    End="-389.833333333333,76.6947608200455" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-389.833333333333,76.6947608200455"
+                    Point2="-393.833333333333,76.6947608200455"
+                    Point3="-393.833333333333,80.6947608200455" />
+                  <mssgle:LineSegment
+                    End="-393.833333333333,121.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -3521,30 +3750,30 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="322.5,64">
+          TopLeft="300.125,64">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="164,145"
+              EndConnector="151.375,157"
               Start="0,0"
-              End="164,137.5">
+              End="151.375,149.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,68.5" />
+                    End="0,63.830675778284" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,68.5"
-                    Point2="0,72.5"
-                    Point3="4,72.5" />
+                    Point1="0,63.830675778284"
+                    Point2="0,67.830675778284"
+                    Point3="4,67.830675778284" />
                   <mssgle:LineSegment
-                    End="160,72.5" />
+                    End="147.375,67.830675778284" />
                   <mssgle:CubicBezierSegment
-                    Point1="160,72.5"
-                    Point2="164,72.5"
-                    Point3="164,76.5" />
+                    Point1="147.375,67.830675778284"
+                    Point2="151.375,67.830675778284"
+                    Point3="151.375,71.830675778284" />
                   <mssgle:LineSegment
-                    End="164,137.5" />
+                    End="151.375,149.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -3555,30 +3784,30 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 4]"
-          TopLeft="352.333333333333,64">
+          TopLeft="322.5,64">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="432.166666666667,136"
+              EndConnector="394,160"
               Start="0,0"
-              End="432.166666666667,128.5">
+              End="394,152.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,51.0922587486745" />
+                    End="0,76" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,51.0922587486745"
-                    Point2="0,55.0922587486745"
-                    Point3="4,55.0922587486745" />
+                    Point1="0,76"
+                    Point2="0,80"
+                    Point3="4,80" />
                   <mssgle:LineSegment
-                    End="428.166666666667,55.0922587486745" />
+                    End="390,80" />
                   <mssgle:CubicBezierSegment
-                    Point1="428.166666666667,55.0922587486745"
-                    Point2="432.166666666667,55.0922587486745"
-                    Point3="432.166666666667,59.0922587486745" />
+                    Point1="390,80"
+                    Point2="394,80"
+                    Point3="394,84" />
                   <mssgle:LineSegment
-                    End="432.166666666667,128.5" />
+                    End="394,152.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -3589,30 +3818,120 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 5]"
-          TopLeft="382.166666666667,64">
+          TopLeft="416,40.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="546.833333333333,37"
+              EndConnector="301,0"
               Start="0,0"
-              End="546.833333333333,29.5">
+              End="293.5,0">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,5.83115183246073" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,5.83115183246073"
-                    Point2="0,9.83115183246073"
-                    Point3="4,9.83115183246073" />
+                    End="293.5,0" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 9]"
+          TopLeft="451.5,263">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="92.8333333333334,122"
+              Start="0,0"
+              End="92.8333333333334,114.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
                   <mssgle:LineSegment
-                    End="542.833333333333,9.83115183246073" />
+                    End="0,68.5330296127563" />
                   <mssgle:CubicBezierSegment
-                    Point1="542.833333333333,9.83115183246073"
-                    Point2="546.833333333333,9.83115183246073"
-                    Point3="546.833333333333,13.8311518324607" />
+                    Point1="0,68.5330296127563"
+                    Point2="0,72.5330296127563"
+                    Point3="4,72.5330296127563" />
                   <mssgle:LineSegment
-                    End="546.833333333333,29.5" />
+                    End="88.8333333333334,72.5330296127563" />
+                  <mssgle:CubicBezierSegment
+                    Point1="88.8333333333334,72.5330296127563"
+                    Point2="92.8333333333334,72.5330296127563"
+                    Point3="92.8333333333334,76.5330296127563" />
+                  <mssgle:LineSegment
+                    End="92.8333333333334,114.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 13]"
+          TopLeft="386.428571428571,64">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="858.571428571429,150"
+              Start="0,0"
+              End="858.571428571429,142.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,32.0417875798027" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,32.0417875798027"
+                    Point2="0,36.0417875798027"
+                    Point3="4,36.0417875798027" />
+                  <mssgle:LineSegment
+                    End="854.571428571429,36.0417875798027" />
+                  <mssgle:CubicBezierSegment
+                    Point1="854.571428571429,36.0417875798027"
+                    Point2="858.571428571429,36.0417875798027"
+                    Point3="858.571428571429,40.0417875798027" />
+                  <mssgle:LineSegment
+                    End="858.571428571429,142.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 14]"
+          TopLeft="1245,256">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-617.666666666667,129"
+              Start="0,0"
+              End="-617.666666666667,121.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,90.5758426966293" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,90.5758426966293"
+                    Point2="0,94.5758426966293"
+                    Point3="-4,94.5758426966293" />
+                  <mssgle:LineSegment
+                    End="-613.666666666667,94.5758426966293" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-613.666666666667,94.5758426966293"
+                    Point2="-617.666666666667,94.5758426966293"
+                    Point3="-617.666666666667,98.5758426966293" />
+                  <mssgle:LineSegment
+                    End="-617.666666666667,121.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -3623,30 +3942,30 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 6]"
-          TopLeft="929,143">
+          TopLeft="360.857142857143,64">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="120.5,59"
+              EndConnector="632.642857142857,150"
               Start="0,0"
-              End="120.5,51.5">
+              End="632.642857142857,142.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,25.5" />
+                    End="0,51.6463238827487" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,25.5"
-                    Point2="0,29.5"
-                    Point3="4,29.5" />
+                    Point1="0,51.6463238827487"
+                    Point2="0,55.6463238827487"
+                    Point3="4,55.6463238827487" />
                   <mssgle:LineSegment
-                    End="116.5,29.5" />
+                    End="628.642857142857,55.6463238827487" />
                   <mssgle:CubicBezierSegment
-                    Point1="116.5,29.5"
-                    Point2="120.5,29.5"
-                    Point3="120.5,33.5" />
+                    Point1="628.642857142857,55.6463238827487"
+                    Point2="632.642857142857,55.6463238827487"
+                    Point3="632.642857142857,59.6463238827487" />
                   <mssgle:LineSegment
-                    End="120.5,51.5" />
+                    End="632.642857142857,142.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -3661,26 +3980,60 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="429,212.5"
+              EndConnector="427.666666666667,229.5"
               Start="0,0"
-              End="429,205">
+              End="427.666666666667,222">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,102.25" />
+                    End="0,164.25702247191" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,102.25"
-                    Point2="0,106.25"
-                    Point3="4,106.25" />
+                    Point1="0,164.25702247191"
+                    Point2="0,168.25702247191"
+                    Point3="4,168.25702247191" />
                   <mssgle:LineSegment
-                    End="425,106.25" />
+                    End="423.666666666667,168.25702247191" />
                   <mssgle:CubicBezierSegment
-                    Point1="425,106.25"
-                    Point2="429,106.25"
-                    Point3="429,110.25" />
+                    Point1="423.666666666667,168.25702247191"
+                    Point2="427.666666666667,168.25702247191"
+                    Point3="427.666666666667,172.25702247191" />
                   <mssgle:LineSegment
-                    End="429,205" />
+                    End="427.666666666667,222" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 1]"
+          TopLeft="226,259">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-67.5,85"
+              Start="0,0"
+              End="-67.5,77.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,38.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,38.5"
+                    Point2="0,42.5"
+                    Point3="-4,42.5" />
+                  <mssgle:LineSegment
+                    End="-63.5,42.5" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-63.5,42.5"
+                    Point2="-67.5,42.5"
+                    Point3="-67.5,46.5" />
+                  <mssgle:LineSegment
+                    End="-67.5,77.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -3691,132 +4044,30 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 8]"
-          TopLeft="226,259">
+          TopLeft="248,365">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="319.666666666667,109"
+              EndConnector="237,41"
               Start="0,0"
-              End="319.666666666667,101.5">
+              End="229.5,41">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,60.8041002277904" />
+                    End="114.5,0" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,60.8041002277904"
-                    Point2="0,64.8041002277904"
-                    Point3="4,64.8041002277904" />
+                    Point1="114.5,0"
+                    Point2="118.5,0"
+                    Point3="118.5,4" />
                   <mssgle:LineSegment
-                    End="315.666666666667,64.8041002277904" />
+                    End="118.5,37" />
                   <mssgle:CubicBezierSegment
-                    Point1="315.666666666667,64.8041002277904"
-                    Point2="319.666666666667,64.8041002277904"
-                    Point3="319.666666666667,68.8041002277904" />
+                    Point1="118.5,37"
+                    Point2="118.5,41"
+                    Point3="122.5,41" />
                   <mssgle:LineSegment
-                    End="319.666666666667,101.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 9]"
-          TopLeft="486.5,251">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="73,117"
-              Start="0,0"
-              End="73,109.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,72.822641509434" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,72.822641509434"
-                    Point2="0,76.822641509434"
-                    Point3="4,76.822641509434" />
-                  <mssgle:LineSegment
-                    End="69,76.822641509434" />
-                  <mssgle:CubicBezierSegment
-                    Point1="69,76.822641509434"
-                    Point2="73,76.822641509434"
-                    Point3="73,80.822641509434" />
-                  <mssgle:LineSegment
-                    End="73,109.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 10]"
-          TopLeft="784.5,242">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-216.7,126"
-              Start="0,0"
-              End="-216.7,118.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,84.2608695652174" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,84.2608695652174"
-                    Point2="0,88.2608695652174"
-                    Point3="-4,88.2608695652174" />
-                  <mssgle:LineSegment
-                    End="-212.7,88.2608695652174" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-212.7,88.2608695652174"
-                    Point2="-216.7,88.2608695652174"
-                    Point3="-216.7,92.2608695652174" />
-                  <mssgle:LineSegment
-                    End="-216.7,118.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 11]"
-          TopLeft="1049.5,244">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-476.166666666667,124"
-              Start="0,0"
-              End="-476.166666666667,116.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,86.9101123595506" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,86.9101123595506"
-                    Point2="0,90.9101123595506"
-                    Point3="-4,90.9101123595506" />
-                  <mssgle:LineSegment
-                    End="-472.166666666667,90.9101123595506" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-472.166666666667,90.9101123595506"
-                    Point2="-476.166666666667,90.9101123595506"
-                    Point3="-476.166666666667,94.9101123595506" />
-                  <mssgle:LineSegment
-                    End="-476.166666666667,116.5" />
+                    End="229.5,41" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -3827,30 +4078,30 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 12]"
-          TopLeft="765.5,58">
+          TopLeft="855,59">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-235.642857142857,310"
+              EndConnector="-271.142857142857,326"
               Start="0,0"
-              End="-235.642857142857,302.5">
+              End="-271.142857142857,318.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,162.334801762115" />
+                    End="0,226.919823788546" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,162.334801762115"
-                    Point2="0,166.334801762115"
-                    Point3="-4,166.334801762115" />
+                    Point1="0,226.919823788546"
+                    Point2="0,230.919823788546"
+                    Point3="-4,230.919823788546" />
                   <mssgle:LineSegment
-                    End="-231.642857142857,166.334801762115" />
+                    End="-267.142857142857,230.919823788546" />
                   <mssgle:CubicBezierSegment
-                    Point1="-231.642857142857,166.334801762115"
-                    Point2="-235.642857142857,166.334801762115"
-                    Point3="-235.642857142857,170.334801762115" />
+                    Point1="-267.142857142857,230.919823788546"
+                    Point2="-271.142857142857,230.919823788546"
+                    Point3="-271.142857142857,234.919823788546" />
                   <mssgle:LineSegment
-                    End="-235.642857142857,302.5" />
+                    End="-271.142857142857,318.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4022,7 +4273,7 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
     design-time-name="Package\Poblar CiudadEmpleado_DIM">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="154,42"
           Id="Package\Poblar CiudadEmpleado_DIM\Leer Empleados"
@@ -4062,7 +4313,9 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -4254,7 +4507,7 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
     design-time-name="Package\Poblar PaisEmpleado_DIM">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
         <NodeLayout
           Size="188,42"
           Id="Package\Poblar PaisEmpleado_DIM\Escribir Empleado_DIM"
@@ -4294,7 +4547,9 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <EdgeLabelCollection />
+            <mssgm:EdgeLabel
+              BoundingBox="0,0,0,0"
+              RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -4330,7 +4585,7 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
     design-time-name="Package\Poblar Producto_DIM">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="183,42"
           Id="Package\Poblar Producto_DIM\Escribir Producto_DIM"
@@ -4370,9 +4625,7 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -4408,41 +4661,79 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
     design-time-name="Package\Poblar Tiempo_DIM">
     <LayoutInfo>
       <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="165,42"
           Id="Package\Poblar Tiempo_DIM\Leer Fecha Pedido"
-          TopLeft="161,79" />
+          TopLeft="60,60" />
         <NodeLayout
           Size="177,42"
           Id="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM"
-          TopLeft="401,252" />
+          TopLeft="301,232" />
+        <NodeLayout
+          Size="156,42"
+          Id="Package\Poblar Tiempo_DIM\Data Conversion"
+          TopLeft="194,144" />
         <EdgeLayout
           Id="Package\Poblar Tiempo_DIM.Paths[OLE DB Source Output]"
-          TopLeft="243.5,121">
+          TopLeft="142.5,102">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="246,131"
+              EndConnector="129.5,42"
               Start="0,0"
-              End="246,123.5">
+              End="129.5,34.5">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,61.5" />
+                    End="0,17" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,61.5"
-                    Point2="0,65.5"
-                    Point3="4,65.5" />
+                    Point1="0,17"
+                    Point2="0,21"
+                    Point3="4,21" />
                   <mssgle:LineSegment
-                    End="242,65.5" />
+                    End="125.5,21" />
                   <mssgle:CubicBezierSegment
-                    Point1="242,65.5"
-                    Point2="246,65.5"
-                    Point3="246,69.5" />
+                    Point1="125.5,21"
+                    Point2="129.5,21"
+                    Point3="129.5,25" />
                   <mssgle:LineSegment
-                    End="246,123.5" />
+                    End="129.5,34.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Poblar Tiempo_DIM.Paths[Data Conversion Output]"
+          TopLeft="272,186">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="117.5,46"
+              Start="0,0"
+              End="117.5,38.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,19" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,19"
+                    Point2="0,23"
+                    Point3="4,23" />
+                  <mssgle:LineSegment
+                    End="113.5,23" />
+                  <mssgle:CubicBezierSegment
+                    Point1="113.5,23"
+                    Point2="117.5,23"
+                    Point3="117.5,27" />
+                  <mssgle:LineSegment
+                    End="117.5,38.5" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -4454,27 +4745,6 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\Poblar Tiempo_DIM\Leer Fecha Pedido">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
   <TaskHost
     design-time-name="Package\Poblar Ventas_FACT">
     <LayoutInfo>
@@ -4543,6 +4813,27 @@ INNER JOIN VientoNorte_DM..CiudadEmpleado_DIM
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Poblar Tiempo_DIM\Leer Fecha Pedido">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Poblar Tiempo_DIM\Escribir Tiempo_DIM">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
       </Property>
     </Properties>
   </PipelineComponentMetadata>
